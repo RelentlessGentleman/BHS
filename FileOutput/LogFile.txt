@@ -1,0 +1,17 @@
+2
+Enter the name of friend number 1: 
+Joe
+Enter the address of friend number 1: 
+5948 something lane
+Enter the phone number of friend number 1: 
+3865948695
+Enter the major of friend number 1: 
+BHS
+Enter the name of friend number 2: 
+Teek
+Enter the address of friend number 2: 
+3866 Other Lane
+Enter the phone number of friend number 2: 
+4869386036
+Enter the major of friend number 2: 
+BHS
